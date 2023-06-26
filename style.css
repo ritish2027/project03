@@ -1,0 +1,69 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5))
+    url(.//pr3\ justice\ bat.jfif);
+}
+
+.dv{
+    position: absolute;
+    top:140px;
+    right: 190px;
+    font-size: 20px;
+    font-weight: bold;
+    color:#a7a6a2;
+}
+.container li{
+    display: inline-block;
+    
+    
+    
+    
+}
+.list-item{
+    display: inline-block;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+
+    color:white;
+    margin: 15px;
+    
+    
+}
+.list{
+    
+    top: -10px;
+    left: 380px;
+    background-color:#2b2922;
+    height: 620px;
+    margin-top: -66px;
+    margin-left: -50px ;
+    margin-right: -50px;
+    padding-left: 430px;
+    border: 10px solid #2b2922;
+    
+    
+}
+.button-small{
+    position: absolute;
+    right: 70px;
+    top: 15px;
+    font-size: 25px;
+    border-radius: 5px;
+    color: #7b6e30;
+    background:#2b2922 ;
+}
+.hero-heading{
+    position: absolute;
+    font-size: 50px;
+    color: white;
+    top: 60px;
+
+}
+.bottom{
+    position: absolute;
+    bottom: 40px;
+}
+.logop{
+    top: 90px;
+    
+}
